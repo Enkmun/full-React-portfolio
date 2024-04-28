@@ -39,6 +39,9 @@ npm start
 
 2. Screen Shots
 
+![Screenshot 2024-04-28 031640](https://github.com/Enkmun/full-React-portfolio/assets/147563607/764f6e05-dc76-4aeb-a6f0-f13e76a5f381)
+![Screenshot 2024-04-28 031705](https://github.com/Enkmun/full-React-portfolio/assets/147563607/8cc2f3f7-f7c5-4304-9b86-b50ea5565b74)
+![Screenshot 2024-04-28 031653](https://github.com/Enkmun/full-React-portfolio/assets/147563607/8b117b4a-385e-443b-b5b8-93c4fcfb5777)
 
 
 ## License
